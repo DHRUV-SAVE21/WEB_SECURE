@@ -2,6 +2,7 @@
 This project is a frontend-only Password Manager (Secure Lock) built using HTML, CSS, and JavaScript no backend or database involved. Everything is handled securely in the browser using localStorage.
 
 🔐 Features:
+
 1]Add new password entries — enter a website name, username, and password.
 
 2]Password generator — automatically creates strong random passwords (8–32 characters long, with optional numbers and symbols).
